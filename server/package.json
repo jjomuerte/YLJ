@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server code for YLJ",
+  "keywords": [
+    "PLAID",
+    "SWIFT",
+    "NODE.js"
+  ],
+  "homepage": "https://github.com/jjomuerte/YLJ#readme",
+  "bugs": {
+    "url": "https://github.com/jjomuerte/YLJ/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjomuerte/YLJ.git"
+  },
+  "license": "ISC",
+  "author": "Juan J. Perdomo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
