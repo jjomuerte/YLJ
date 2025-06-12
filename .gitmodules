@@ -1,0 +1,3 @@
+[submodule "YLJ.ios"]
+	path = YLJ.ios
+	url = https://github.com/jjomuerte/YLJ.git
